@@ -1,3 +1,3 @@
-# KatSaburova.github.io
-resume in html and css
-Link: KatSaburova.github.io to view
+# **KatSaburova.github.io**
+Resume in html and css, click the link below to view<br>
+Link: [KatSaburova.github.io](KatSaburova.github.io)
